@@ -28,7 +28,7 @@
       <td>IIT Madras Smart Hostel</td>
       <td>Mobile Application</td>
       <td>Winner</td>
-      <td>₹1,25,000</td>
+      <td>₹1,00,000</td>
     </tr>
     <tr>
       <td>3</td>
