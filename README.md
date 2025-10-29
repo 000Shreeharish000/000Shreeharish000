@@ -35,7 +35,7 @@
       <td>MedAIThon</td>
       <td>Agentic AI + ERP System</td>
       <td>Winner</td>
-      <td>30,000 +  Internship Offer </td>
+      <td>₹30,000 +  Internship Offer </td>
     </tr>
     <tr>
       <td>3</td>
