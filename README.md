@@ -38,28 +38,36 @@
       <td>₹30,000 +  Internship Offer </td>
     </tr>
     <tr>
-      <td>3</td>
+      <tr>
+      <td>4</td>
+      <td>MariaDB</td>
+      <td>Python Library</td>
+      <td>Honorary</td>
+      <td>$500(₹ 44,794) </td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>LPU Digital Art</td>
       <td>Digital Art</td>
       <td>Winner Art</td>
       <td>₹5000</td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>Pitch Perfect</td>
       <td>AgriTech</td>
       <td>Winner</td>
       <td>₹5000</td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>7</td>
       <td>Impulse</td>
       <td>ML</td>
       <td>TOP 10</td>
       <td>Internship offer </td>
     </tr>
      <tr>
-      <td>6</td>
+      <td>8</td>
       <td>SDG INNOVATE</td>
       <td>Social Good</td>
       <td>Second Runner Up</td>
