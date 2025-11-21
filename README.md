@@ -43,7 +43,7 @@
       <td>MariaDB</td>
       <td>Python Library</td>
       <td>Honorary</td>
-      <td>$500(₹ 44,794) </td>
+      <td>$500 (₹44,794) </td>
     </tr>
     <tr>
       <td>5</td>
