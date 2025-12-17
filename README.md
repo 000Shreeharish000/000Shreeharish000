@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=F72711&background=381AFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hey+I'm+Shree+Harish+V+!" alt="Typing SVG" />
 </div>
@@ -25,17 +24,17 @@
     </tr>
     <tr>
       <td>2</td>
-      <td>Smart Agro Hackathon</td>
-      <td>IoT / ML</td>
-      <td>Runner Up</td>
-      <td>₹8000</td>
-    </tr>
-    <tr>
-      <td>3</td>
       <td>IIT Madras Smart Hostel</td>
       <td>Mobile Application</td>
       <td>Winner</td>
       <td>₹1,00,000</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Smart Agro Hackathon</td>
+      <td>IoT / ML</td>
+      <td>Runner Up</td>
+      <td>₹8000</td>
     </tr>
     <tr>
       <td>4</td>
