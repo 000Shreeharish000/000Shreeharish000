@@ -18,20 +18,27 @@
   <tbody>
     <tr>
       <td>1</td>
+      <td>Smart India Hackathon</td>
+      <td>Ministry of Defence</td>
+      <td>Winner</td>
+      <td>₹1,50,000</td>
+    </tr>
+    <tr>
+      <td>2</td>
       <td>Smart Agro Hackathon</td>
       <td>IoT / ML</td>
       <td>Runner Up</td>
       <td>₹8000</td>
     </tr>
     <tr>
-      <td>2</td>
+      <td>3</td>
       <td>IIT Madras Smart Hostel</td>
       <td>Mobile Application</td>
       <td>Winner</td>
       <td>₹1,00,000</td>
     </tr>
     <tr>
-      <td>3</td>
+      <td>4</td>
       <td>MedAIThon</td>
       <td>Agentic AI + ERP System</td>
       <td>Winner</td>
@@ -39,35 +46,35 @@
     </tr>
     <tr>
       <tr>
-      <td>4</td>
+      <td>5</td>
       <td>MariaDB</td>
       <td>Python Library</td>
       <td>Honorary</td>
       <td>$500 (₹44,794) </td>
     </tr>
     <tr>
-      <td>5</td>
+      <td>6</td>
       <td>LPU Digital Art</td>
       <td>Digital Art</td>
       <td>Winner Art</td>
       <td>₹5000</td>
     </tr>
     <tr>
-      <td>6</td>
+      <td>7</td>
       <td>Pitch Perfect</td>
       <td>AgriTech</td>
       <td>Winner</td>
       <td>₹5000</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td>8</td>
       <td>Impulse</td>
       <td>ML</td>
       <td>TOP 10</td>
       <td>Internship offer </td>
     </tr>
      <tr>
-      <td>8</td>
+      <td>9</td>
       <td>SDG INNOVATE</td>
       <td>Social Good</td>
       <td>Second Runner Up</td>
