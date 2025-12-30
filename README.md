@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td>2</td>
-      <td>IIT Madras Smart Hostel</td>
+      <td>IIT Madras Hackathon</td>
       <td>Mobile Application</td>
       <td>Winner</td>
       <td>₹1,00,000</td>
