@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>8</td>
-      <td>Impulse</td>
+      <td>Impulse </td>
       <td>ML</td>
       <td>TOP 10</td>
       <td>Internship offer </td>
@@ -75,7 +75,7 @@
      <tr>
       <td>9</td>
       <td>SDG INNOVATE</td>
-      <td>Social Good</td>
+      <td>Social Good Application</td>
       <td>Second Runner Up</td>
       <td>---</td>
     </tr>
