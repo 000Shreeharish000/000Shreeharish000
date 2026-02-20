@@ -1,97 +1,97 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=F72711&center=true&vCenter=true&width=650&lines=Hey+I'm+Shree+Harish+V+%F0%9F%91%8B;AI+Engineer+%7C+Full+Stack+Developer+%7C+Hackathon+Winner;Building+Scalable+Real+World+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&pause=1000&color=FF2E63&center=true&vCenter=true&width=900&lines=Shree+Harish+V+%F0%9F%9A%80;FAANG-Style+Engineer+%7C+AI+%7C+Full+Stack+%7C+Big+Data;Hackathon+Winner+%7C+Building+Scalable+Systems" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=000Shreeharish000&label=Profile%20Views&color=ff2e63&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🏆 Tech Achievements
+# 👨‍💻 About Me
 
-<div align="center">
-
-| # | Event                 | Track               | Achievement         | Prize                |
-| - | --------------------- | ------------------- | ------------------- | -------------------- |
-| 1 | Smart India Hackathon | Ministry of Defence | 🥇 Winner           | ₹1,50,000            |
-| 2 | IIT Madras Hackathon  | Mobile Application  | 🥇 Winner           | ₹1,00,000            |
-| 3 | Smart Agro Hackathon  | IoT / ML            | 🥈 Runner Up        | ₹8000                |
-| 4 | MedAIThon             | Agentic AI + ERP    | 🥇 Winner           | ₹30,000 + Internship |
-| 5 | MariaDB               | Python Library      | ⭐ Honorary          | $500 (₹44,794)       |
-| 6 | LPU Digital Art       | Digital Art         | 🥇 Winner           | ₹5000                |
-| 7 | Pitch Perfect         | AgriTech            | 🥇 Winner           | ₹5000                |
-| 8 | Impulse               | Machine Learning    | 🔝 Top 10           | Internship Offer     |
-| 9 | SDG Innovate          | Social Good App     | 🥉 Second Runner Up | —                    |
-
-</div>
+🚀 AI Engineer & Full Stack Developer focused on **high-scale backend systems, intelligent applications, and real-world impact products**.
+🏆 Multiple national hackathon winner building production-ready solutions across **AI, ERP, AgriTech, and Healthcare**.
+⚡ Strong focus on **system design, scalability, and performance engineering**.
 
 ---
 
-# 💻 Tech Stack
+# 🏆 Achievement Wall
+
+<div align="center"> | # | Event                 | Track               | Achievement         | Prize                | | - | --------------------- | ------------------- | ------------------- | -------------------- | | 1 | Smart India Hackathon | Ministry of Defence | 🥇 Winner           | ₹1,50,000            | | 2 | IIT Madras Hackathon  | Mobile Application  | 🥇 Winner           | ₹1,00,000            | | 3 | Smart Agro Hackathon  | IoT / ML            | 🥈 Runner Up        | ₹8000                | | 4 | MedAIThon             | Agentic AI + ERP    | 🥇 Winner           | ₹30,000 + Internship | | 5 | MariaDB               | Python Library      | ⭐ Honorary          | $500 (₹44,794)       | | 6 | LPU Digital Art       | Digital Art         | 🥇 Winner           | ₹5000                | | 7 | Pitch Perfect         | AgriTech            | 🥇 Winner           | ₹5000                | | 8 | Impulse               | Machine Learning    | 🔝 Top 10           | Internship Offer     | | 9 | SDG Innovate          | Social Good App     | 🥉 Second Runner Up | —                    | </div>
+
+---
+
+# ⚡ Tech Arsenal
 
 ## 🚀 Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&perline=8"/>
+</p>
 
 ## 🧩 Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,react&perline=8"/>
+</p>
 
 ## 🗄 Databases & Caching
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge\&logo=redis\&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8"/>
+</p>
 
-## ☁️ Cloud & Production Tools
+## ☁️ Cloud • DevOps • Production
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
-![Load Balancer](https://img.shields.io/badge/Load%20Balancing-FF6F00?style=for-the-badge\&logo=nginx\&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge\&logo=testinglibrary\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,git,github&perline=8"/>
+</p>
+
+<p align="center">
+Load Balancing • Testing Pipelines • Distributed Systems
+</p>
 
 ## 📊 Big Data & Analytics
 
-![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge\&logo=apachehadoop\&logoColor=black)
-![YARN](https://img.shields.io/badge/YARN-F80000?style=for-the-badge\&logo=apache\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+<p align="center">
+Hadoop • YARN • Power BI
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 📈 Engineering Metrics
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/___.harish05.___)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shree-harish-v-b096892b6/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/2Bh6d0bYRR/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge\&logo=HackerRank\&logoColor=white)](https://www.hackerrank.com/profile/shreeharishv)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=000Shreeharish000&show_icons=true&theme=radical&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=000Shreeharish000&layout=compact&theme=radical"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=000Shreeharish000&theme=radical&hide_border=false"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🌐 Connect
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=000Shreeharish000&show_icons=true&theme=radical" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=000Shreeharish000&layout=compact&theme=radical" />
-
-<img src="https://streak-stats.demolab.com?user=000Shreeharish000&theme=radical&hide_border=false" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/shree-harish-v-b096892b6/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Profile-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/2Bh6d0bYRR/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Coding%20Profile-2EC866?style=for-the-badge\&logo=hackerrank)](https://www.hackerrank.com/profile/shreeharishv)
+[![Instagram](https://img.shields.io/badge/Instagram-Personal-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/___.harish05.___)
 
 </div>
 
 ---
 
-⭐ *AI • Full Stack • Big Data • Scalable Systems*
+<div align="center">
+
+### ⭐ *Designing Scalable Systems • Shipping AI Products • Winning Hackathons*
+
+</div>
