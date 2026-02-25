@@ -96,5 +96,3 @@
 </div>
 
 ---
-
-⭐ *AI • Full Stack • Big Data • Scalable Systems*
