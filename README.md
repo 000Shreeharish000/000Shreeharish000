@@ -6,7 +6,7 @@
 
 ---
 
-# 🏆 Tech Achievements
+# 🏆 Tech Achievements in college
 
 <div align="center">
 
@@ -94,5 +94,3 @@
 <img src="https://streak-stats.demolab.com?user=000Shreeharish000&theme=radical&hide_border=false" />
 
 </div>
-
----
