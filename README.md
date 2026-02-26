@@ -16,8 +16,8 @@
 | 2 | IIT Madras Hackathon  | Mobile Application  | Winner           | ₹1,00,000            |
 | 3 | MariaDB               | Python Library      | Honarary Prize   |  $500 (₹44,794)      |
 | 4 | MedAIThon             | Agentic AI + ERP    | Winner           | ₹30,000 + Internship |
-| 5 | Smart Agro Hackathon  | IOT + ML            | 🥈 Runner           | ₹ 8000               |
-| 6 | LPU Digital Art       | Digital Art         | 🥇 Winner           | ₹5000                |
+| 5 | Smart Agro Hackathon  | IOT + ML            | Runner           | ₹ 8000               |
+| 6 | LPU Digital Art       | Digital Art         | Winner           | ₹5000                |
 | 7 | Pitch Perfect         | AgriTech            | 🥇 Winner           | ₹5000                |
 | 8 | Impulse               | Machine Learning    | 🔝 Top 10           | Internship Offer     |
 | 9 | SDG Innovate          | Social Good App     | 🥉 Second Runner Up | —                    |
