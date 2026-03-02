@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=F72711&center=true&vCenter=true&width=650&lines=Hey+I'm+Shree+Harish+V+%F0%9F%91%8B;AI+Engineer+%7C+Full+Stack+Developer+%7C+Hackathon+Winner;Building+Scalable+Real+World+Systems" />
-
-</div>
-
----
 
 # 🏆 Tech Achievements in college
 
