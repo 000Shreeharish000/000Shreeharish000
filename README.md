@@ -1,5 +1,5 @@
 
-# 🏆 Tech Achievements in college
+# 🏆 Tech Achievements in College
 
 <div align="center">
 
