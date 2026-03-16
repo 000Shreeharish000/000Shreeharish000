@@ -1,5 +1,5 @@
 
-# 🏆 Tech Achievements from 2023 - 2025
+# 🏆 Tech Achievements
 
 <div align="center">
 
