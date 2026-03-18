@@ -13,7 +13,7 @@
 | 6 | LPU Digital Art       | Digital Art         | Winner           | ₹5000                |
 | 7 | Pitch Perfect         | AgriTech            | Winner           | ₹5000                |
 | 8 | Impulse               | Machine Learning    | Top 10           | Internship Offer     |
-| 9 | SDG Innovate          | Social Good App     | Second Runner Up | —                    |
+
 
 </div>
 
