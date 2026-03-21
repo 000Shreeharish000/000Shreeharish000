@@ -1,5 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=000Shreeharish000&label=PROFILE+VIEWS&color=0e75b6&style=flat&base=523" alt="000Shreeharish000" />
 
+[![trophies](https://github-profile-trophy.vercel.app/?username=000Shreeharish000)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 🏆 Tech Achievements
 
 <div align="center">
