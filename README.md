@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://profile-counter.glitch.me/000Shreeharish000/count.svg" alt="000Shreeharish000" />
+  <img src="https://komarev.com/ghpvc/?username=000Shreeharish000&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="000Shreeharish000" />
 </p>
 
 # 🏆 Tech Achievements
