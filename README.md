@@ -64,7 +64,6 @@
 
 ## 🧠 LeetCode Performance
 <img src="https://leetcard.jacoblin.cool/2Bh6d0bYRR?theme=dark&font=Roboto&ext=heatmap" />
-<img src="https://assets.leetcode.com/static_assets/others/50-days-badge.gif" height="120" />
 
 # 🌐 Connect With Me
 
