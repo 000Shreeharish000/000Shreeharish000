@@ -64,6 +64,7 @@
 
 ## 🧠 LeetCode Performance
 <img src="https://leetcard.jacoblin.cool/2Bh6d0bYRR?theme=dark&font=Roboto&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/2Bh6d0bYRR?theme=dark&font=Roboto&ext=heatmap" />
 
 # 🌐 Connect With Me
 
