@@ -78,7 +78,7 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub stats
 
 <div align="center">
 
