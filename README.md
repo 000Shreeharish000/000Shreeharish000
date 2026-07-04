@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=000Shreeharish000&label=PROFILE+VIEWS&color=0e75b6&style=flat&base=523" alt="000Shreeharish000" />
 
-# 🏆 Tech Achievements
+# 🏆 Tech Achievement
 
 <div align="center">
 
